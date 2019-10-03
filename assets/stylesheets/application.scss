@@ -1,0 +1,17 @@
+body {
+  font-family: Helvetica;
+}
+.app {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.myAppContainer {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+  align-items: flex-start;
+  h1 {
+    text-align: center;
+  }
+}
